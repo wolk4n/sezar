@@ -7,8 +7,8 @@ Düz metin (plaintext) ve formatı gizli değildir.
 Harf değiştirme şifrelemelerinde toplam 26! farklı şifre tablosu vardır.
 
 ## Program İndirilmesi & Çalıştırılması
-`git clone https://github.com/wolkann/sezar/`<br> Yazarak indirebilir,<br>
-`python3 sezar.py`<br> Yazarak da programı çalıştırabilirsiniz.
+`git clone https://github.com/wolkann/sezar/`<br>
+`python3 sezar.py`
 
 ## Program Arayüz
 Programı çalıştırdıktan sonra karşınıza gelen seçeneklerden ilerleyebilirsiniz.<br>
