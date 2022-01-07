@@ -4,7 +4,6 @@ Sezar şifrelemesi, ilk kez Romalı lider Jül Sezar tarafından kullanılmış 
 Kaba kuvvet (brute-force) saldırısıyla çok kolay çözülür. Çünkü Şifreleme/Şifre çözme yöntemi gizli değildir.
 Sadece 25 farklı deneme yeterlidir. (Anahtar uzayı 25 elemanlıdır.)
 Düz metin (plaintext) ve formatı gizli değildir.
-Harf değiştirme şifrelemelerinde toplam 26! farklı şifre tablosu vardır.
 
 ## Program İndirilmesi & Çalıştırılması
 `git clone https://github.com/wolkann/sezar/`<br>
