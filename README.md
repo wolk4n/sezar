@@ -6,7 +6,7 @@ Sadece 25 farklı deneme yeterlidir. (Anahtar uzayı 25 elemanlıdır.)
 Düz metin (plaintext) ve formatı gizli değildir.
 
 ## Program İndirilmesi & Çalıştırılması
-`git clone https://github.com/wolkann/sezar/`<br>
+`git clone https://github.com/wolkann/sezar.git`<br>
 `python3 sezar.py`
 
 ## Program Arayüz
