@@ -8,7 +8,7 @@ Harf değiştirme şifrelemelerinde toplam 26! farklı şifre tablosu vardır.
 
 ## Program Arayüz
 `git clone https://github.com/wolkann/sezar/`<br>
-`python3 sezar.py`
+`python3 sezar.py`<br>
 Yazarak programı çalıştırabilir ve karşınıza gelen seçeneklerden ilerleyebilirsiniz.<br>
 <img src="/img/arauz.png"/>
 
