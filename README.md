@@ -7,5 +7,6 @@ Düz metin (plaintext) ve formatı gizli değildir.
 Harf değiştirme şifrelemelerinde toplam 26! farklı şifre tablosu vardır.
 
 ## Program Arayüz
+<img src="/img/arauz.jpg"/>
 
 ## Sezar Şifresi Oluşturma
