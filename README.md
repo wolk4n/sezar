@@ -6,12 +6,18 @@ Sadece 25 farklı deneme yeterlidir. (Anahtar uzayı 25 elemanlıdır.)
 Düz metin (plaintext) ve formatı gizli değildir.
 Harf değiştirme şifrelemelerinde toplam 26! farklı şifre tablosu vardır.
 
+## Program İndirilmesi & Çalıştırılması
+`git clone https://github.com/wolkann/sezar/`<br> Yazarak indirebilir,
+`python3 sezar.py`<br> Yazarak da programı çalıştırabilirsiniz.
+
 ## Program Arayüz
-`git clone https://github.com/wolkann/sezar/`<br>
-`python3 sezar.py`<br>
-Yazarak programı çalıştırabilir ve karşınıza gelen seçeneklerden ilerleyebilirsiniz.<br>
+Programı çalıştırdıktan sonra karşınıza gelen seçeneklerden ilerleyebilirsiniz.<br>
 <img src="/img/arauz.png"/>
 
 ## Sezar Şifresi Oluşturma
-Sezar 
+Sezar şifresi oluşturmak istediğiniz herhangi bir kelime yazmalısınız ve tüm harfleri küçük olmak zorundadır.
 <img src="/img/1.png"/>
+
+## Sezar Şifresi Kırma
+Kırmak istediğiniz sezar şifresini küçük harfler ile yazıyorsunuz ve şifre kolay bir şekilde kırılmış oluyor.
+<img src="/img/2.png"/>
