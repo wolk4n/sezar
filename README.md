@@ -7,6 +7,7 @@ Düz metin (plaintext) ve formatı gizli değildir.
 
 ## Program İndirilmesi & Çalıştırılması
 `git clone https://github.com/wolkann/sezar.git`<br>
+`cd sezar`<br>
 `python3 sezar.py`
 
 ## Program Arayüz
