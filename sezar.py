@@ -2,7 +2,7 @@ def sezarolustur(metin):
     sifre = ""
     alfabe=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
     for i in metin:
-        sifre+=alfabe[(alfabe.index(i)+3)%26]
+        sifre+=alfabe[(alfabe.index(i)+21)%26]
     print("Sezar şifresi :",sifre)
     return metin
 
@@ -10,7 +10,7 @@ def sezarkir(metin):
     sifre = ""
     alfabe=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
     for i in metin:
-        sifre+=alfabe[(alfabe.index(i)-3)%26]
+        sifre+=alfabe[(alfabe.index(i)-21)%26]
     print("Kırılan şifre :",sifre)
     return metin
 
